@@ -1,10 +1,9 @@
 # RNA Extraction Protocol
+### by Lukas Koch
 
 ## Purpose
 
 RNA extraction from dissected ant venom glands and corresponding carcass samples using a TRIzol/chloroform extraction followed by isopropanol precipitation.
-
-> **Working protocol:** This protocol is transcribed from handwritten laboratory notes and should be treated as a working method. Verify centrifuge units, reagent concentrations, and sample-specific elution volumes before routine use.
 
 ## Starting Material
 
@@ -123,9 +122,3 @@ Record:
 - Do not overdry the RNA pellet, as this may make resuspension difficult.
 - If dissected tissues are not completely clean, RNA from surrounding tissues may contribute to the sample.
 - For small ant species, pooling more venom glands may be necessary.
-
-## Version History
-
-| Version | Change |
-|---|---|
-| v1 | Initial Markdown protocol transcribed from handwritten RNA extraction notes |
