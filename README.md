@@ -56,8 +56,7 @@ The design is being optimized iteratively based on print quality, fit, feeding v
 
 ### Dissections
 
-- [Venom gland dissection](protocols/dissections/venom_gland_dissection.md)
-- [Other tissue dissections](protocols/dissections/other_tissue_dissection.md)
+- [Venom gland dissection](venom_gland_dissection.md)
 
 Dissection protocols should include, where relevant:
 
