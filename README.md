@@ -56,7 +56,7 @@ The design is being optimized iteratively based on print quality, fit, feeding v
 
 ### Dissections
 
-- [Venom gland dissection](venom_gland_dissection.md)
+- [Venom gland dissection](https://github.com/uha0001/antlab_protocols/blob/main/protocols/venom_gland_dissection.md)
 
 Dissection protocols should include, where relevant:
 
