@@ -37,7 +37,7 @@ The folder structure can be expanded as new protocols are added.
 
 ### 3D printing
 
-- [Ant feeder design and 3D printing](protocols/3d_printing/ant_feeder_3d_printing.md)
+- [Ant feeder design and 3D printing](Protocol for Designing and 3D Printing Ant Feeding Devices.md)
 
 This protocol covers the complete workflow from CAD design to printing and testing:
 
