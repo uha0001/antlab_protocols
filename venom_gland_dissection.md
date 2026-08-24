@@ -4,8 +4,6 @@
 
 Dissection of ant venom glands for downstream molecular work.
 
-> **Working protocol:** This version is transcribed and cleaned up from handwritten lab notes. Confirm species-specific anatomy and sample handling requirements before use.
-
 ## Materials
 
 - Ant specimens
