@@ -5,8 +5,6 @@
 
 Preparation of a fungal spore suspension and setup of a microplate-based antifungal growth inhibition assay.
 
-> **Working protocol:** This document is transcribed from handwritten assay notes. Confirm the exact fungal strain, incubation conditions, detection-reagent conditions, and final plate volumes before running the assay.
-
 ## General Notes
 
 - Use **sterile filter tips throughout**.
