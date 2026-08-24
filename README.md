@@ -96,7 +96,7 @@ Any modifications from published or manufacturer protocols should be documented 
 
 ### DNA extraction
 
-- [DNA extraction](https://github.com/uha0001/antlab_protocols/blob/main/ctab_dna_extraction_small_ants.md)
+- [DNA extraction](https://github.com/uha0001/antlab_protocols/blob/main/protocols/ctab_dna_extraction_small_ants.md)
 
 DNA protocols should document:
 
