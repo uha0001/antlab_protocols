@@ -54,8 +54,3 @@ A successful dissection should yield:
 - attached duct/glandular tissue;
 - minimal visible contamination from surrounding abdominal tissues or Dufour's gland.
 
-## Version History
-
-| Version | Change |
-|---|---|
-| v1 | Initial Markdown protocol transcribed from handwritten dissection notes |
