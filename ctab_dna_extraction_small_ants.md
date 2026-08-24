@@ -1,4 +1,5 @@
 # CTAB DNA Extraction for Small Ants
+### by Anja Manigk
 
 ## Purpose
 
@@ -115,9 +116,3 @@ Record:
 - Perform all work with **phenol-chloroform-isoamyl alcohol in a certified fume hood**.
 - Dispose of organic solvent waste according to institutional procedures.
 - Use caution when sterilizing forceps with an open flame.
-
-## Version History
-
-| Version | Change |
-|---|---|
-| v1 | Markdown version transcribed from printed CTAB DNA extraction protocol |
