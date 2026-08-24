@@ -1,4 +1,5 @@
 # Antifungal Growth Inhibition Assay
+## by Lukas Koch
 
 ## Purpose
 
@@ -121,9 +122,3 @@ Record:
 - Use outer wells for sterile water when possible to reduce evaporation/edge effects.
 - Keep triplicates together and use a consistent serial-dilution direction.
 - Clearly identify positive and negative controls.
-
-## Version History
-
-| Version | Change |
-|---|---|
-| v1 | Initial Markdown protocol transcribed from handwritten antifungal assay notes |
