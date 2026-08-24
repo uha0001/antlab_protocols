@@ -75,8 +75,7 @@ For small species, sample size may need to be adjusted depending on RNA yield an
 
 ### RNA extraction
 
-- [RNA extraction](protocols/rna/rna_extraction.md)
-- [RNA quality control](protocols/rna/rna_quality_control.md)
+- [RNA extraction](https://github.com/uha0001/antlab_protocols/blob/main/rna_extraction.md)
 
 RNA protocols may include:
 
