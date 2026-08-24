@@ -12,6 +12,9 @@ Protocols in this repository may be updated as methods are optimized. Whenever p
 
 ```text
 protocols/
+├── intro to github
+│   └── github_guide_for_lab_members_v2.md
+│
 ├── 3d_printing/
 │   └── ant_feeder_3d_printing.md
 │
@@ -34,6 +37,11 @@ The folder structure can be expanded as new protocols are added.
 ---
 
 ## Protocols
+
+### Intro to github
+
+[How to github](https://github.com/uha0001/antlab_protocols/blob/main/protocols/Protocol_4_Designing_and_3D_Printing_Ant_Feeding_Devices.md)
+
 
 ### 3D printing
 
