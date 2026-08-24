@@ -5,8 +5,6 @@
 
 Extraction of genomic DNA from small ant specimens using CTAB lysis, phenol-chloroform-isoamyl alcohol extraction, isopropanol precipitation, ethanol washing, and resuspension in low-salt TE buffer.
 
-> **Working protocol:** This protocol is transcribed from the printed laboratory protocol shown in the source notes. Follow institutional chemical-safety procedures, especially when handling liquid nitrogen and phenol-chloroform-isoamyl alcohol.
-
 ## Materials
 
 ### Solutions
