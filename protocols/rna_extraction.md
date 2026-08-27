@@ -42,7 +42,7 @@ For small ant species, multiple glands may need to be pooled to obtain sufficien
 1. Transfer the sample to a 2 mL microcentrifuge tube.
 2. Add **200 µL PBS**.
 3. Vortex briefly.
-4. Centrifuge to pellet the tissue.
+4. Centrifuge to pellet the tissue 1 min, 12000 g.
 5. Discard the supernatant.
 6. Check the pH of the discarded wash using pH paper if required.
 7. Repeat the wash if necessary until the sample is sufficiently free of preservation solution.
