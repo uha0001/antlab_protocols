@@ -334,7 +334,13 @@ Dissect venom glands from previously milked ants for downstream molecular work, 
 - Minimize handling time and transfer tissue to preservation solution promptly for RNA work.
 - A successful dissection should yield an intact or mostly intact translucent reservoir, associated duct/gland tissue, and minimal visible contamination.
 
-**Anatomical figure:** Simon’s Word document includes a photograph credited to Sarah. It is intentionally **not embedded** here pending permission to redistribute it on GitHub.
+### Venom apparatus anatomy
+
+![Venom apparatus of Lasius niger](https://raw.githubusercontent.com/uha0001/antlab_protocols/main/pictures/sarah_anatomy.png)
+
+**Figure. Venom apparatus of *Lasius niger*.** A, acidopore; C, convoluted gland; D, Dufour's gland; F, venom gland filaments; R, venom reservoir. Scale bar: 0.5 mm.
+
+*Photograph: Sarah Theermann. Reproduced with permission.*
 ---
 
 # Sample Identification and Traceability
